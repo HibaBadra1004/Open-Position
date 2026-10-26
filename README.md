@@ -1,6 +1,6 @@
-# 🚀 Join Gruppo FOS & Audensiel | IT Careers
+# 🚀 Join  Audensiel | IT Careers
 
-Welcome to our tech opportunities board! I am **Hiba**, IT Recruiter at **Gruppo FOS** (part of Audensiel). 
+Welcome to our tech opportunities board! I am **Hiba**, IT Recruiter at **Audensiel**
 
 We use this repository to share our open positions in a transparent and collaborative way.
 
@@ -21,9 +21,6 @@ All our active vacancies are published in the **Issues** section of this reposit
 ---
 
 ## 🎯 About Us
-
-### **Gruppo FOS**
-👉 [Official FOS Website](https://www.gruppofos.it/lavora-noi/)
 
 ### **Audensiel**
 👉 [Official Audensiel Website](https://www.audensiel.com/jobs)
